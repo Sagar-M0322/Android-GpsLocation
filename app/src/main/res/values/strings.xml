@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">gps</string>
+    <string name="latitude">Latitude:</string>
+    <string name="unknown">unknown</string>
+    <string name="longitute">Longitute:</string>
+    <string name="unknown1">unknown</string>
+</resources>
